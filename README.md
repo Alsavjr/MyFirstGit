@@ -1,0 +1,3 @@
+# MyFirstGit
+Trial work
+# Poetry
